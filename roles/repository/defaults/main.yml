@@ -1,0 +1,4 @@
+---
+state: present
+git_url: "https://github.com/cvicens/archetype-operator-customer-service.git"
+git_ref: "master"
